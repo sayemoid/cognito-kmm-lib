@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "cognitolib"
-include(":library")
+include(":cognito-client-lib")
